@@ -14,7 +14,7 @@
 <img src="https://www.iconsdb.com/icons/preview/black/discord-xxl.png" width= 5% height= auto/>
 </a>
 
-- User - FadingNinja#3511
+- User - FadingNinja#3431
 
 ### Apps
 <a href="https://code.visualstudio.com/" target="_blank">
